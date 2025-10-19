@@ -17,3 +17,4 @@ public class PickupWidely implements ModInitializer
 		PickupWidely.LOGGER.info("Starting PickupWidely mod...");
 	}
 }
+
